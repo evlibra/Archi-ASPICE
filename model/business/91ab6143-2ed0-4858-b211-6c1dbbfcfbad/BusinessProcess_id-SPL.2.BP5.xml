@@ -1,8 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SPL.2.BP5: Build the release from configured items."
-    id="id-SPL.2.BP5">
-  <properties
-      key="Archi-EA-loop-id"
-      value="id-SPL.2.BP5"/>
-</archimate:BusinessProcess>

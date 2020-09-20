@@ -1,8 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SYS.2.BP4: Analyze the impact on the operating environment."
-    id="id-SYS.2.BP4">
-  <properties
-      key="Archi-EA-loop-id"
-      value="id-SYS.2.BP4"/>
-</archimate:BusinessProcess>

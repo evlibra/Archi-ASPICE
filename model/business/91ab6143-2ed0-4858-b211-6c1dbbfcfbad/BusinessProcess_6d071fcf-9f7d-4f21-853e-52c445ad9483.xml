@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SWE.4 Software Unit Verification"
-    id="6d071fcf-9f7d-4f21-853e-52c445ad9483"
-    documentation="http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf#page=52">
-  <properties
-      key="maturity"
-      value="40"/>
-</archimate:BusinessProcess>

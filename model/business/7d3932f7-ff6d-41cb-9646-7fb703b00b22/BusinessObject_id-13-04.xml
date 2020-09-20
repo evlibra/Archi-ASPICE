@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(13-04) Communication record "
-    id="id-13-04"
-    documentation="•  All forms of interpersonal communication including: &#xA;-  letters &#xA;-  faxes &#xA;-  e-mails &#xA;-  voice recordings &#xA;-  podcast &#xA;-  blog &#xA;-  videos &#xA;-  forum &#xA;-  live chat &#xA;-  wikis &#xA;-  photo protocol &#xA;-  meeting support record">
-  <properties
-      key="Archi-EA-loop-id"
-      value="id-13-04"/>
-</archimate:BusinessObject>

@@ -1,8 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SUP.10.BP5:  Approve  change  requests  before  implementation."
-    id="id-SUP.10.BP5">
-  <properties
-      key="Archi-EA-loop-id"
-      value="id-SUP.10.BP5"/>
-</archimate:BusinessProcess>
