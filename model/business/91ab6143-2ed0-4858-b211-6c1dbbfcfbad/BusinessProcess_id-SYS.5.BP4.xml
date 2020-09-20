@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.5.BP4: Test integrated system."
+    id="id-SYS.5.BP4">
+  <properties
+      key="Archi-EA-loop-id"
+      value="id-SYS.5.BP4"/>
+</archimate:BusinessProcess>

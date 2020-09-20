@@ -1,0 +1,14 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-43f9c5be-6fde-4e3c-97ee-23c27bf032a6">
+  <properties
+      key="Archi-EA-loop-id"
+      value="id-43f9c5be-6fde-4e3c-97ee-23c27bf032a6"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-MAN.3-g-dma.xml#id-MAN.3-g-dma"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-MAN.3.BP6.xml#id-MAN.3.BP6"/>
+</archimate:CompositionRelationship>

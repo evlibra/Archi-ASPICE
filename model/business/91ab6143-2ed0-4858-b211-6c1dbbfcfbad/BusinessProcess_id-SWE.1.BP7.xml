@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SWE.1.BP7: Ensure consistency."
+    id="id-SWE.1.BP7">
+  <properties
+      key="Archi-EA-loop-id"
+      value="id-SWE.1.BP7"/>
+</archimate:BusinessProcess>

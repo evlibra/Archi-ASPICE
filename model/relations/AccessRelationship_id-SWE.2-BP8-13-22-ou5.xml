@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-SWE.2-BP8-13-22-ou5">
+  <properties
+      key="Archi-EA-loop-id"
+      value="id-SWE.2-BP8-13-22-ou5"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-SWE.2.BP8.xml#id-SWE.2.BP8"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-13-22.xml#id-13-22"/>
+</archimate:AccessRelationship>

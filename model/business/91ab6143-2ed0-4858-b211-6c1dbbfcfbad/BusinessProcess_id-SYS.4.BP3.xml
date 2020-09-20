@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SYS.4.BP3: Develop specification for system integration test."
+    id="id-SYS.4.BP3">
+  <properties
+      key="Archi-EA-loop-id"
+      value="id-SYS.4.BP3"/>
+</archimate:BusinessProcess>
